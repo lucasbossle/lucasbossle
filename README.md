@@ -1,7 +1,7 @@
 # Lucas Bossle
 Hello world! I'm a software developer based in Curitiba, Brazil.
 
-I have 3 years of experience working with web applications, databases, REST APIs, messaging and other cool things.
+I have 3 years of experience working with web applications, databases, REST APIs, AWS Lambda and API Gateway, messaging and other cool things.
 
 I'm interested in learning more about serverless application architecture, CI/CD and improving my coding abilities.
 
