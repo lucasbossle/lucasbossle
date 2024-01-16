@@ -9,7 +9,7 @@ My main language is Python, but I also know some Java and I'm learning Rust.
 
 ## Contact
 
-You can contact my via lbossle.dev@gmail.com.
+You can contact me via lucas.lb2@gmail.com.
 
 I have an old account on GitHub from which I got locked out (yes, it's possible - take good care of your credentials), so I had to create this one.
 
